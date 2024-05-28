@@ -131,6 +131,21 @@ Before starting, you need to install the following on your computer.
     title="Dinesh Anbazhagan"
     />
   </a>
+    <a
+    target="_blank"
+    href="https://github.com/itzmidinesh"
+    class="circle"
+    >
+  <img
+    src="https://avatars.githubusercontent.com/u/138321820?s=96&v=4"
+    alt="@jasonavecilla"
+    size="60"
+    height="60"
+    width="60"
+    style="border-radius: 100%;"
+    title="jasonavecilla"
+    />
+  </a>
 </div>
 
 ## Acknowledgements
