@@ -1,6 +1,6 @@
 # Task Craft
 
-## Table of Contents
+## Table of Contents1
 
 - [Task Craft](#task-craft)
   - [Table of Contents](#table-of-contents)
