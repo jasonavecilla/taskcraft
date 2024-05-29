@@ -17,7 +17,7 @@
 
 This project was done as part of Chingu Voyage V47 by team 11. This app was made to meet the [requirements](https://github.com/chingu-voyages/voyage-project-tier2-dailytasks) given by Chingu as part of the Voyage.
 
-[Task Craft](https://task-craft.netlify.app/) is a task management tool that can help you streamline and increase your everyday productivity. This project seeks to develop a powerful and user-friendly platform that enables individuals to successfully plan, manage, and complete their chores with precision.
+[Task Craft]is a task management tool that can help you streamline and increase your everyday productivity. This project seeks to develop a powerful and user-friendly platform that enables individuals to successfully plan, manage, and complete their chores with precision.
 
 ## Technologies used
 
