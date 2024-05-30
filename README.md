@@ -12,7 +12,9 @@
   - [The Team](#the-team)
   - [Acknowledgements](#acknowledgements)
   - [About Chingu](#about-chingu)
+## Screenshots
 
+![App Screenshot](https://scontent.fmnl33-5.fna.fbcdn.net/v/t1.15752-9/441929656_809914984070206_1090989156887921258_n.png?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=lZcmVFxfmCgQ7kNvgGduuaU&_nc_ht=scontent.fmnl33-5.fna&oh=03_Q7cD1QEjyUXvbwhNiR4FZAUqiX7VSMuIMqzcTDkQN8GAaHF1nA&oe=667FD648)
 ## Overview
 
 This project was done as part of Chingu Voyage V47 by team 11. This app was made to meet the [requirements](https://github.com/chingu-voyages/voyage-project-tier2-dailytasks) given by Chingu as part of the Voyage.
